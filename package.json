@@ -1,0 +1,17 @@
+{
+  "name": "Captcha bot discord.js",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vitagliano",
+  "license": "ISC",
+  "description": "Bot para a comunidade Elite dos Desenvoldores",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.2"
+  }
+}
